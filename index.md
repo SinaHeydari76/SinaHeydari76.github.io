@@ -1,1 +1,3 @@
-- [General Recommendation Letter – Dr. Majid Ramezani (MSc Supervisor)](recommletters/recommramezani.pdf)
+## Recommendation Letters
+
+- [Letter of Recommendation – Dr. Majid Ramezani (M.Sc. Supervisor)](recommletters/recommramezani.pdf)
