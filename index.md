@@ -1,6 +1,8 @@
-# Sina Heydari
+---
+layout: default
+---
 
-home
+# Sina Heydari
 
 ## Recommendation Letters
 
