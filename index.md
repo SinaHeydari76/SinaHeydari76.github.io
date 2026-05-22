@@ -1,4 +1,3 @@
-homepage
 
 ## Recommendation Letters
 
