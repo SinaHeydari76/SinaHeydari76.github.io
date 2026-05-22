@@ -1,8 +1,3 @@
----
-layout: default
----
-
-# Sina Heydari
 
 ## Recommendation Letters
 
