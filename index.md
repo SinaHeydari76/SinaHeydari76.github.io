@@ -1,5 +1,3 @@
-# Sina Heydari
-
 homepage
 
 ## Recommendation Letters
