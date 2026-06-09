@@ -6,4 +6,7 @@
 
 ### Certificates
 
-- [C# programming course](certificates/C#_certificate.jpg)
+- [Python programming course](certificates/Pythoncertificate.jpg)
+- [C# programming course](certificates/Csharpcertificate.jpg)
+- [SQL server 2017 database development course](certificates/SQLcertificate.jpg)
+- [Network+ course](certificates/Networkpluscertificate.jpg)
