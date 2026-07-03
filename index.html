@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Academic Homepage" />
+    <meta
+      name="keywords"
+      content="Computer Science, PhD Student, Research, Machine Learning, Robotics"
+    />
+    <meta name="author" content="Anonymous" />
+    <meta property="og:title" content="Academic Homepage - PhD Student" />
+    <meta
+      property="og:description"
+      content="Research in computer science and related fields."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="#" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:creator" content="@anonymous" />
+    <title>Academic Homepage</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body id="top">
+    <header>
+      <div class="header-content">
+        <h1>Sina Heydari</h1>
+        <p>
+          MSc in Artificial Intelligence <br />
+          Institute for Advanced Studies in Basic Sciences (IASBS)
+        </p>
+        <div class="social-links-header">
+          <a href="https://scholar.google.com/citations?user=MVHSnh4AAAAJ&hl=en"
+            ><i class="fas fa-graduation-cap"></i>Google Scholar</a
+          >
+          <a href="https://orcid.org/0009-0004-8994-5576">
+            <i class="fab fa-orcid"></i>ORCID
+          </a>
+          <a href="https://www.linkedin.com/in/sina-heydari">
+            <i class="fab fa-linkedin"></i>LinkedIn
+          </a>
+          <a href="https://github.com/SinaHeydari76"
+            ><i class="fab fa-github"></i>GitHub</a
+          >
+          <a href="mailto:sinaheydari@iasbs.ac.ir"
+            ><i class="fas fa-envelope"></i>Email</a
+          >
+          <a href="mailto:sinaa.heydari.76@gmail.com"
+            ><i class="fas fa-envelope"></i>Email</a
+          >
+        </div>
+      </div>
+      <div class="header-image">
+        <img src="images/profile.jpg" alt="Profile Photo" />
+      </div>
+    </header>
+
+    <main>
+      <section id="about">
+        <p>
+          Hi! I am Sina Heydari. I hold an MSc in Computer Engineering,
+          specializing in Artificial Intelligence and Robotics, from the
+          Institute for Advanced Studies in Basic Sciences (IASBS).
+        </p>
+      </section>
+
+      <section id="research">
+        <h2>Research</h2>
+        <p>
+          My research examines learning and inference from user-generated data,
+          with an emphasis on modeling higher-order structure, weak supervision,
+          and interaction-aware representations. My master’s thesis, proposed a
+          multi-level hypergraph framework for automatic personality prediction
+          from text, modeling personality traits as latent structures emerging
+          from hierarchical relationships in user-generated text and capturing
+          higher-order interactions beyond pairwise graphs.
+        </p>
+      </section>
+      <section id="publications">
+        <div class="publications-header">
+          <h2 id="toggle-header">Publications</h2>
+          <button id="toggle-publications" class="toggle-publications">
+            Show All
+          </button>
+        </div>
+        <div id="publications-container">
+          <!-- Publications will be dynamically loaded here -->
+        </div>
+      </section>
+      <section id="news">
+        <h2>News</h2>
+        <div class="news-container">
+          <ul class="news-list">
+            <li>
+              [02/2024]: I began my role as a Research Assistant at the Natural
+              Language Processing Lab, Institute for Advanced Studies in Basic
+              Sciences (IASBS).
+            </li>
+            <li>
+              [02/2026]: I am defending my MSc thesis titled
+              <i
+                >Text-Based Multi-Level Automatic Personality Prediction
+                System</i
+              >
+              at the Institute for Advanced Studies in Basic Sciences (IASBS).
+            </li>
+            <li>
+              [12/2025]: I was assigened as the CS & IT Department
+              representative at the 26th National Exhibition of Research and
+              Technology Achievements, where I will be presenting an LLM-based
+              personality prediction from text application of my own design and
+              an object detection application usiong YOLOv8.
+            </li>
+            <li>
+              [04/2025]: Our paper
+              <i
+                >RSAttAE: An Information-Aware Attention-Based Autoencoder
+                Recommender System</i
+              >
+              is accepted at the 11th International Conference on Web Research,
+              and we will present it in person on April 16–17, 2025, in Tehran,
+              Iran.
+            </li>
+            <li>
+              [03/2025]: I began my role as a Teaching Assistant for the Large
+              Language Models course at the Institute for Advanced Studies in
+              Basic Sciences (IASBS).
+            </li>
+            <li>
+              [12/2024]: I was assigened the CS & IT Department representative
+              at the 25th National Exhibition of Research and Technology
+              Achievements, where I will be presenting an LLM-based Persian
+              poetry contest application of my own design, to address
+              language-specific challenges in natural language processing.
+            </li>
+            <li>
+              [09/2024]: I began my role as a Teaching Assistant for the Text
+              Mining & Web Mining course at the Institute for Advanced Studies
+              in Basic Sciences (IASBS).
+            </li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>
+        Last updated: [July, 2026].</a>.
+      </p>
+    </footer>
+
+    <div id="imageModal" class="modal">
+      <span class="modal-close" onclick="closeModal()">&times;</span>
+      <img class="modal-content" id="modalImage" />
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>

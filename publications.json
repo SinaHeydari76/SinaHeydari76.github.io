@@ -1,0 +1,33 @@
+{
+  "publications": [
+    {
+      "title": "Hyper Persona: A Multi-Level Hypergraph Framework for Text-Based Automatic Personality Prediction",
+      "authors": ["Sina Heydari", "Majid Ramezani"],
+      "venue": "arXiv 2026",
+      "thumbnail": "images/thumbs/hyperpersona.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "project": "https://doi.org/10.48550/arXiv.2605.17355",
+        "pdf": "https://arxiv.org/pdf/2605.17355"
+      }
+    },
+    {
+      "title": "RSAttAE: An Information-Aware Attention-Based Autoencoder Recommender System",
+      "authors": [
+        "Amirhossein Dadashzadeh Taromi",
+        "Sina Heydari",
+        "Mohsen Hooshmand",
+        "Majid Ramezani"
+      ],
+      "venue": "ICWR 2025",
+      "thumbnail": "images/thumbs/rsattae.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "project": "https://ieeexplore.ieee.org/document/11006185",
+        "pdf": "https://arxiv.org/pdf/2502.06705"
+      }
+    }
+  ]
+}
