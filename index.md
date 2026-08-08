@@ -1,5 +1,4 @@
-<div style="margin-botton: 25px; align-items: flex-start; gap: 30px;">
-
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 25px;">
   <img src="{{ '/images/profilepic.jpg' | relative_url }}"
        alt="Sina Heydari"
        style="width: 180px; height: auto;">
@@ -12,7 +11,6 @@
       machine learning, deep learning, and representation learning.
     </p>
   </div>
-
 </div>
 
 
