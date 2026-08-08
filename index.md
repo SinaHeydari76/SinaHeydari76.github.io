@@ -1,5 +1,3 @@
-# Sina Heydari
-
 <div style="text-align: left;">
     <img src="{{ '/images/profilepic.jpg' | relative_url }}"
          alt="Sina Heydari"
