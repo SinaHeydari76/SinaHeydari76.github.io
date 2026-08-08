@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 25px;">
-  <img src="{{ '/images/profilepic.jpg' | relative_url }}"
+  <img src="{{ '/images/profilepicsquared.jpg' | relative_url }}"
        alt="Sina Heydari"
        style="width: auto; height: 120px;">
 
