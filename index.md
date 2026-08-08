@@ -12,8 +12,8 @@
     </p>
   </div>
 </div>
-[University email](sinaheydari@iasbs.ac.ir) .
-[Gmail](sinaa.heydari.76@gmail.com) .
+[University email](mailto:sinaheydari@iasbs.ac.ir) .
+[Gmail](mailto:sinaa.heydari.76@gmail.com) .
 [ORCID](https://orcid.org/0009-0004-8994-5576) ·
 [Google Scholar](https://scholar.google.com/) .
 [LinkedIn](https://scholar.google.com/) .
