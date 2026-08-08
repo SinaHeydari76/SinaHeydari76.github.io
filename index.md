@@ -4,7 +4,7 @@
        style="width: auto; height: 120px;">
 
   <div>
-    <h2>AI Researcher</h2>
+    <h2>M.Sc. in Computer Engineering - Artificial Intelligence and Robotics</h2>
 
     <p>
       I am a computer scientist and AI researcher working on
@@ -34,27 +34,33 @@ I am particularly interested in combining neural architectures with structured r
 
 A hypergraph based framework for modeling hierarchical textual representations for automatic personality prediction.
 
-[Paper](https://arxiv.org/) · [Code](https://github.com/)
+[arXiv](https://doi.org/10.48550/arXiv.2605.17355) · [Code](https://github.com/)
 
 ### CDAE
 
 **CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising**
+Submitted to 16th International Conference on Computer and Knowledge Engineering (ICCKE 2026)
 
 A contrastive denoising framework for learning sentence representations that remain robust under semantic preserving textual perturbations.
 
-[Paper](https://arxiv.org/) · [Code](https://github.com/ComputationIASBS/CDAE)
+[arXiv](https://doi.org/10.48550/arXiv.2607.28236) · [Code](https://github.com/ComputationIASBS/CDAE)
+
+### RSAttAE
+
+**RSAttAE: An Information-Aware Attention-Based Autoencoder Recommender System **
+Published at the 11th International Conference on Web Research (ICWR 2025)
+
+An information-aware recommender system for rating prediction, designed to capture the relative importance of user and item features for recommendations.
+
+[Paper](https://ieeexplore.ieee.org/document/11006185) . [arXiv](https://doi.org/10.48550/arXiv.2607.28236) · [Code](https://github.com/ComputationIASBS/CDAE)
 
 ## Projects
 
-### HyperPersona
 
-Hypergraph based personality prediction from text.
-
-### CDAE
-
-Contrastive denoising autoencoder for perturbation invariant sentence embeddings.
 
 ## Contact
 
-[GitHub](https://github.com/SinaHeydari76) ·
-[Google Scholar](https://scholar.google.com/)
+[ORCID](https://orcid.org/0009-0004-8994-5576) ·
+[Google Scholar](https://scholar.google.com/) .
+[LinkedIn](https://scholar.google.com/) .
+[GitHub](https://github.com/SinaHeydari76) 
