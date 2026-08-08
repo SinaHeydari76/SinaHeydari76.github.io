@@ -2,7 +2,7 @@
 
   <img src="{{ '/images/profilepic.jpg' | relative_url }}"
        alt="Sina Heydari"
-       style="width: auto; height: 180px;">
+       style="width: 120px; height: auto;">
 
   <div>
     <h2>AI Researcher</h2>
@@ -38,6 +38,43 @@ and generalization of AI systems.
 
 Machine Learning · Deep Learning · Natural Language Processing · Representation Learning · Graph Neural Networks · Large Language Models
 
+## Research Experience
+
+### Research Assistant, Natural Language Processing Lab
+
+*February 2026 – July 2026*  
+**Department of Computer Science and Information Technology**  
+*Institute for Advanced Studies in Basic Sciences (IASBS)*  
+Supervisor: **Dr. Majid Ramezani**
+
+* Designed a multi-level hypergraph framework for modeling personality traits as overlapping, weakly supervised categories.
+* Benchmarked the framework against deep learning baselines and analyzed performance under label noise and class overlap.
+* Prepared and submitted a manuscript to a peer-reviewed journal.
+* Provided research guidance and methodological support to junior students joining the laboratory.
+
+### Paper Presentation
+
+*2025*  
+**RSAttAE: An Information-Aware Attention-Based Autoencoder Recommender System**  
+*11th International Conference on Web Research (ICWR 2025)*
+
+[Paper](https://ieeexplore.ieee.org/document/11006185) · [Presentation Certificate](https://sinaheydari76.github.io/certificates/ICWR2025certificate.jpg)
+
+### CS & IT Department Representative and Presenter
+
+*2025*  
+**26th National Exhibition of Research and Technology Achievements**
+
+* Developed and presented an LLM-based personality prediction system from text.
+* Built an object detection application using YOLOv8.
+
+### CS & IT Department Representative and Presenter
+
+*2024*  
+**25th National Exhibition of Research and Technology Achievements**
+
+* Designed and implemented an LLM-based Persian poetry contest application, addressing language-specific challenges in NLP.
+
 ## Publications
 
 ### HyperPersona
@@ -66,6 +103,34 @@ A contrastive denoising framework for learning sentence representations that rem
 An information-aware recommender system for rating prediction, designed to capture the relative importance of user and item features for recommendations.
 
 [Paper](https://ieeexplore.ieee.org/document/11006185) · [Code](https://github.com/ComputationIASBS/CDAE)
+
+## Teaching Experience
+
+### Teaching Assistant
+
+*March 2024 – June 2024*  
+**Department of Computer Science and Information Technology, IASBS**  
+**Course:** Large Language Models  
+**Instructor:** Dr. Majid Ramezani
+
+* Designed and supervised assignments on autoregressive versus autoencoding models, GPU architectures for LLM training, and the mathematical formulation of attention mechanisms.
+* Designed and supervised projects on training an encoder-only model, building a chatbot with a free API, evaluating generation metrics including BLEU, ROUGE, and CIDEr, and zero-shot classification using CLIP.
+* Helped students debug code for course projects.
+* Held office hours and review sessions and graded assignments and examinations.
+* Curated relevant research papers and assisted students in preparing presentations.
+
+### Teaching Assistant
+
+*September 2024 – December 2024*  
+**Department of Computer Science and Information Technology, IASBS**  
+**Course:** Text Mining and Web Mining  
+**Instructor:** Dr. Majid Ramezani
+
+* Designed and supervised assignments on building a simple search engine, investigating similarity measures in graph space, and Byte Pair Encoding.
+* Designed and supervised projects on building a DFA-based tokenizer, training classifiers including Decision Tree, Naive Bayes, SVM, KNN, and ensemble methods, and implementing clustering algorithms including K-Means and cluster representation on the 20 Newsgroups dataset.
+* Helped students debug code for course projects.
+* Held office hours and review sessions and graded assignments and examinations.
+* Curated relevant research papers and assisted students in preparing presentations.
 
 ## Academic Projects
 
@@ -97,7 +162,7 @@ Implemented weighted logistic regression using Newton-Raphson optimization and a
 
 Implemented PCA from scratch in Python for dimensionality reduction and visualization, including Scree plots, Score plots, and Loading plots for analyzing feature contributions.
 
-### Transformer and ITransformer
+### Transformer and iTransformer
 
 [GitHub Repository](https://github.com/SinaHeydari76/Transformer-and-ITransformer) · *Spring 2024*  
 **Course:** Deep Learning (DL)
@@ -131,3 +196,36 @@ Implemented Kernel PCA in MATLAB to demonstrate nonlinear dimensionality reducti
 **Course:** Artificial Neural Networks (ANN)
 
 Implemented a Self-Organizing Map from scratch in MATLAB for unsupervised clustering and visualization of the Iris dataset, with quantitative evaluation using quantization, distortion, and topographic error metrics.
+
+## Skills
+
+### Programming
+
+**Proficient:** Python, PyTorch, PyTorch Geometric, NetworkX, Hugging Face, Scikit-learn, NumPy, Pandas, spaCy, NLTK, Matplotlib, LaTeX, MATLAB, NetLogo, C#
+
+**Familiar:** SQL, Java, R, Julia
+
+### Development Tools
+
+**Python:** VS Code, Spyder, JupyterLab, Jupyter Notebook, Google Colab
+
+**LaTeX:** TeXstudio, TeXmaker, Overleaf
+
+### Operating Systems and Software
+
+**Operating Systems:** Linux (Ubuntu), Windows
+
+**Software:** LM Studio, Cursor
+
+### Languages
+
+**Farsi:** Native
+
+**English:** Advanced (B2–C1)
+
+## Certifications
+
+* [**SQL Server 2017 Database Development**](https://sinaheydari76.github.io/certificates/SQLcertificate.jpg) · *September 2021*
+* [**C# Programming**](https://sinaheydari76.github.io/certificates/Csharpcertificate.jpg) · *September 2021*
+* [**Python Programming**](https://sinaheydari76.github.io/certificates/Pythoncertificate.jpg) · *January 2021*
+* [**Network+**](https://sinaheydari76.github.io/certificates/Networkpluscertificate.jpg) · *December 2020*
