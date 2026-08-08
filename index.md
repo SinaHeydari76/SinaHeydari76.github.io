@@ -1,12 +1,19 @@
-**AI Researcher**
+<div style="display: flex; align-items: flex-start; gap: 30px;">
 
-<div style="text-align: left;">
-    <img src="{{ '/images/profilepic.jpg' | relative_url }}"
-         alt="Sina Heydari"
-         style="width: 120px; height: auto;">
+  <img src="{{ '/images/profilepic.jpg' | relative_url }}"
+       alt="Sina Heydari"
+       style="width: 180px; height: auto;">
+
+  <div>
+    <h2>AI Researcher</h2>
+
+    <p>
+      I am a computer scientist and AI researcher working on
+      machine learning, deep learning, and representation learning.
+    </p>
+  </div>
+
 </div>
-
-I am a computer scientist and AI researcher working on machine learning, deep learning, and representation learning.
 
 ## Research Interests
 
