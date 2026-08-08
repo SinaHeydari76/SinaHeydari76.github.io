@@ -31,7 +31,7 @@ and generalization of AI systems.
 [ORCID](https://orcid.org/0009-0004-8994-5576) ·
 [Google Scholar](https://scholar.google.com/citations?user=MVHSnh4AAAAJ&hl=en) ·
 [LinkedIn](https://www.linkedin.com/in/sina-heydari) ·
-[Github](https://github.com/SinaHeydari76)
+[GitHub](https://github.com/SinaHeydari76)
 
 ## Education
 
