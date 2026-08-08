@@ -1,10 +1,10 @@
+**AI Researcher**
+
 <div style="text-align: left;">
     <img src="{{ '/images/profilepic.jpg' | relative_url }}"
          alt="Sina Heydari"
          style="width: 120px; height: auto;">
 </div>
-
-**AI Researcher and Computer Scientist**
 
 I am a computer scientist and AI researcher working on machine learning, deep learning, and representation learning.
 
