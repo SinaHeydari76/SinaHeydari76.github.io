@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 25px;">
   <img src="{{ '/images/profilepic.jpg' | relative_url }}"
        alt="Sina Heydari"
-       style="width: 180px; height: auto;">
+       style="width: 90px; height: auto;">
 
   <div>
     <h2>AI Researcher</h2>
