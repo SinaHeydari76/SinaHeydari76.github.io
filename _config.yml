@@ -1,9 +1,4 @@
-title: "Sina Heydari"
-description: "AI Researcher and Computer Scientist"
 theme: minima
 
-readme_index:
-  remove_originals: true
-
 exclude:
-  - README.md
+  - README
