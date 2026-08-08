@@ -1,1 +1,94 @@
 
+---
+---
+
+@import "minima";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #222;
+}
+
+.wrapper {
+  max-width: 1000px;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.site-title {
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.page-content {
+  padding: 30px 0;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.45rem;
+  margin-top: 40px;
+  margin-bottom: 18px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+h3 {
+  font-size: 1.15rem;
+  margin-top: 28px;
+  margin-bottom: 8px;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+ul {
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-footer {
+  border-top: 1px solid #e5e5e5;
+  padding: 25px 0;
+  margin-top: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .page-content {
+    padding-top: 20px;
+  }
+
+  h1 {
+    font-size: 1.7rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}
