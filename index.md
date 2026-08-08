@@ -2,7 +2,7 @@
 
   <img src="{{ '/images/profilepic.jpg' | relative_url }}"
        alt="Sina Heydari"
-       style="width: 180px; height: auto;">
+       style="width: auto; height: 180px;">
 
   <div>
     <h2>AI Researcher</h2>
