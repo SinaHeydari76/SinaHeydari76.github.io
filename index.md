@@ -23,7 +23,7 @@
 
 ## Education
 
-M.Sc. in Computer Engineering - Artificial Intelligence and Robotics from the Institute for Advanced Studies in Basic Sciences (IASBS)
+M.Sc. in Computer Engineering - Artificial Intelligence and Robotics from the Institute for Advanced Studies in Basic Sciences (IASBS)  
 B.Sc. in Computer Engineering - Software Engineering from the Azad University of Zanjan
 
 ## Research Interests
