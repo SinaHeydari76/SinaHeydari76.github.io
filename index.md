@@ -1,6 +1,10 @@
 # Sina Heydari
 
-<img src="{{ '/images/profilepic.jpg' | relative_url }}" alt="Sina Heydari">
+<div style="text-align: left;">
+    <img src="{{ '/images/profilepic.jpg' | relative_url }}"
+         alt="Sina Heydari"
+         style="width: 180px; height: auto;">
+</div>
 
 **AI Researcher and Computer Scientist**
 
