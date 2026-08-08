@@ -4,11 +4,13 @@
        style="width: auto; height: 260px;">
 
   <div>
-    <h2>M.Sc. in Computer Engineering - Artificial Intelligence and Robotics</h2>
+    <h2>AI Researcher</h2>
 
     <p>
-      I am a computer scientist and AI researcher working on
-      machine learning, deep learning, and representation learning.
+      
+    My research focuses on developing robust and structured machine learning methods for learning meaningful representations from complex data.
+
+    I am particularly interested in combining neural architectures with structured representations to improve the robustness, interpretability, and generalization of AI systems.
     </p>
   </div>
 </div>
@@ -19,17 +21,15 @@
 [LinkedIn](https://scholar.google.com/) .
 [GitHub](https://github.com/SinaHeydari76) 
 
+## Education
+
+M.Sc. in Computer Engineering - Artificial Intelligence and Robotics from the Institute for Advanced Studies in Basic Sciences (IASBS)
+B.Sc. in Computer Engineering - Software Engineering from the Azad University of Zanjan
 
 ## Research Interests
 
 Machine Learning · Deep Learning · Natural Language Processing ·
 Representation Learning · Graph Neural Networks · Large Language Models
-
-## About Me
-
-My research focuses on developing robust and structured machine learning methods for learning meaningful representations from complex data.
-
-I am particularly interested in combining neural architectures with structured representations to improve the robustness, interpretability, and generalization of AI systems.
 
 ## Publications
 
@@ -63,37 +63,37 @@ An information-aware recommender system for rating prediction, designed to captu
 ## Academic Projects
 
 * [**Finding the Shortest Path Using A-star Algorithm**](https://github.com/SinaHeydari76/Multi-Agent-Systems-finding-the-shortest-path-using-A-star-algorithm) — *Winter 2024*  
-**Course:** Multi-Agent System (MAS)
-  Implemented the A-star (A*) algorithm from scratch to determine optimal routes between nodes in a grid-based environment, enabling autonomous agents to navigate dynamically while avoiding collisions and optimizing route planning.
+**Course:** Multi-Agent System (MAS)  
+Implemented the A-star (A*) algorithm from scratch to determine optimal routes between nodes in a grid-based environment, enabling autonomous agents to navigate dynamically while avoiding collisions and optimizing route planning.
 
 * [**Exploratory Data Analysis (EDA) and Classification**](https://github.com/SinaHeydari76/Exploratory-Data-Analysis-EDA-and-Classification) — *Winter 2024*  
-**Course:** Machine Learning (ML)
-  Developed machine learning models to predict whether an online advertisement click leads to a purchase, distinguishing purchase-inducing clicks from non-converting interactions to support profit maximization.
+**Course:** Machine Learning (ML)  
+Developed machine learning models to predict whether an online advertisement click leads to a purchase, distinguishing purchase-inducing clicks from non-converting interactions to support profit maximization.
 
 * [**Classification Models**](https://github.com/SinaHeydari76/Classification-models) — *Winter 2024*  
-**Course:** Machine Learning (ML)
-  Implemented weighted logistic regression using Newton-Raphson optimization and analyzed the effect of the locality parameter $\tau$. Compared Naive Bayes and SVM classifiers on the MNIST dataset using One-vs-All and One-vs-One strategies.
+**Course:** Machine Learning (ML)  
+Implemented weighted logistic regression using Newton-Raphson optimization and analyzed the effect of the locality parameter $\tau$. Compared Naive Bayes and SVM classifiers on the MNIST dataset using One-vs-All and One-vs-One strategies.
 
 * [**Principal Component Analysis (PCA)**](https://github.com/SinaHeydari76/Principal-Component-Analysis) — *Winter 2024*
-**Course:** Computational Data Mining
-  Implemented PCA from scratch in Python for dimensionality reduction and visualization, including Scree plots, Score plots, and Loading plots for analyzing feature contributions.
+**Course:** Computational Data Mining  
+Implemented PCA from scratch in Python for dimensionality reduction and visualization, including Scree plots, Score plots, and Loading plots for analyzing feature contributions.
 
 * [**Transformer and ITransformer**](https://github.com/SinaHeydari76/Transformer-and-ITransformer) — *Spring 2024*  
-**Course:** Deep Learning (DL)
-  Implemented and compared Transformer and ITransformer architectures from scratch for sequence modeling tasks, demonstrating the efficiency and performance characteristics of the ITransformer architecture.
+**Course:** Deep Learning (DL)  
+Implemented and compared Transformer and ITransformer architectures from scratch for sequence modeling tasks, demonstrating the efficiency and performance characteristics of the ITransformer architecture.
 
 * [**Ontology-based Knowledge Representation**](https://github.com/SinaHeydari76/Ontology-based-knowledge-representation) — *Spring 2024*  
-**Course:** Natural Language Processing (NLP)
-  Developed an ontology-driven graph framework for semantic knowledge representation, enabling structured modeling, reasoning, and retrieval through custom ontology construction and semantic querying.
+**Course:** Natural Language Processing (NLP)  
+Developed an ontology-driven graph framework for semantic knowledge representation, enabling structured modeling, reasoning, and retrieval through custom ontology construction and semantic querying.
 
 * [**Sentiment Analysis Using Naive Bayes Binary Classifier**](https://github.com/SinaHeydari76/Sentiment-analysis-using-NaIve-Bayes-classifire) — *Spring 2024*  
-**Course:** Natural Language Processing (NLP)
-  Implemented an NLP pipeline for classifying IMDB reviews using a Naive Bayes classifier developed from scratch and a scikit-learn baseline. Evaluated performance using accuracy, F1 score, recall, confusion matrices, and ROC curves.
+**Course:** Natural Language Processing (NLP)  
+Implemented an NLP pipeline for classifying IMDB reviews using a Naive Bayes classifier developed from scratch and a scikit-learn baseline. Evaluated performance using accuracy, F1 score, recall, confusion matrices, and ROC curves.
 
 * [**Kernel Principal Component Analysis (KPCA)**](https://github.com/SinaHeydari76/Kernel-PCA) — *Spring 2024*  
-**Course:** Pattern Recognition
-  Implemented Kernel PCA in MATLAB to demonstrate nonlinear dimensionality reduction through kernel-based implicit mapping into feature space.
+**Course:** Pattern Recognition  
+Implemented Kernel PCA in MATLAB to demonstrate nonlinear dimensionality reduction through kernel-based implicit mapping into feature space.
 
 * [**Self-Organizing Map for Clustering and Visualization of Iris Data**](https://github.com/SinaHeydari76/Self-Organizning-Maps) — *Fall 2024*  
-**Course:** Artificial Neural Networks (ANN)
-  Implemented a Self-Organizing Map from scratch in MATLAB for unsupervised clustering and visualization of the Iris dataset, with quantitative evaluation using quantization, distortion, and topographic error metrics.
+**Course:** Artificial Neural Networks (ANN)  
+Implemented a Self-Organizing Map from scratch in MATLAB for unsupervised clustering and visualization of the Iris dataset, with quantitative evaluation using quantization, distortion, and topographic error metrics.
