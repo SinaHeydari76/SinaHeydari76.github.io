@@ -35,7 +35,8 @@ I am particularly interested in combining neural architectures with structured r
 
 ### HyperPersona
 
-**HyperPersona: A Multi Level Hypergraph Framework for Text Based Automatic Personality Prediction**
+**HyperPersona: A Multi Level Hypergraph Framework for Text Based Automatic Personality Prediction**  
+_Preprint_
 
 A hypergraph based framework for modeling hierarchical textual representations for automatic personality prediction.
 
@@ -43,8 +44,8 @@ A hypergraph based framework for modeling hierarchical textual representations f
 
 ### CDAE
 
-**CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising**
-Submitted to 16th International Conference on Computer and Knowledge Engineering (ICCKE 2026)
+**CDAE: Enhancing Perturbation Robustness in Pretrained Language Models with Contrastive Denoising**  
+_Submitted to 16th International Conference on Computer and Knowledge Engineering (ICCKE 2026)_
 
 A contrastive denoising framework for learning sentence representations that remain robust under semantic preserving textual perturbations.
 
@@ -52,8 +53,9 @@ A contrastive denoising framework for learning sentence representations that rem
 
 ### RSAttAE
 
-**RSAttAE: An Information-Aware Attention-Based Autoencoder Recommender System **
-Published at the 11th International Conference on Web Research (ICWR 2025)
+**RSAttAE: An Information-Aware Attention-Based Autoencoder Recommender System**  
+_Published at the 11th International Conference on Web Research (ICWR 2025)
+_
 
 An information-aware recommender system for rating prediction, designed to capture the relative importance of user and item features for recommendations.
 
