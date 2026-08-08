@@ -1,6 +1,6 @@
 # Sina Heydari
 
-![Sina Heydari](images/profilepic.jpg)
+<img src="{{ '/images/profilepic.jpg' | relative_url }}" alt="Sina Heydari">
 
 **AI Researcher and Computer Scientist**
 
