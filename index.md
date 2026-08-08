@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<div style="margin-botton: 25px; align-items: flex-start; gap: 30px;">
 
   <img src="{{ '/images/profilepic.jpg' | relative_url }}"
        alt="Sina Heydari"
