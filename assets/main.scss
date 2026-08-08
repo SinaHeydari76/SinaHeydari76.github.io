@@ -1,4 +1,123 @@
+---
+---
 
+@import "minima";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+  color: #222;
+}
+
+.wrapper {
+  max-width: 1000px;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.site-title {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.page-content {
+  padding: 40px 0;
+}
+
+/* Main headings */
+
+h1 {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid #ddd;
+}
+
+h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 8px;
+}
+
+/* Text */
+
+p {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+ul {
+  margin-top: 8px;
+  margin-bottom: 25px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* Links */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Profile section */
+
+.page-content img {
+  max-width: 100%;
+}
+
+/* Footer */
+
+.site-footer {
+  border-top: 1px solid #e5e5e5;
+  padding: 30px 0;
+  margin-top: 60px;
+}
+
+/* Mobile */
+
+@media screen and (max-width: 700px) {
+
+  .wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .page-content {
+    padding-top: 25px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+    margin-top: 35px;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+  }
+}
 ---
 ---
 
